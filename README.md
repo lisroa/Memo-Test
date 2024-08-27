@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <a href="memo-test-sigma.vercel.app" target="_blank">Demo: memo-test-sigma.vercel.app</a>
+  <a href="https://memo-test-sigma.vercel.app/" target="_blank">Demo: memo-test-sigma.vercel.app</a>
 </p>
